@@ -1,0 +1,6 @@
+node_modules/
+VIVA_EXPLANATION.md
+.env
+.vscode/
+.idea/
+*.log
